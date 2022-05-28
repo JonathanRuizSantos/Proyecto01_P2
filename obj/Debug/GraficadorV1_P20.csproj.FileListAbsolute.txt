@@ -1,0 +1,104 @@
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\GraficadorV1_P20\bin\Debug\GraficadorV1_P20.exe.config
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\GraficadorV1_P20\bin\Debug\GraficadorV1_P20.exe
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\GraficadorV1_P20\bin\Debug\GraficadorV1_P20.pdb
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\GraficadorV1_P20\obj\Debug\GraficadorV1_P20.csproj.AssemblyReference.cache
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\GraficadorV1_P20\obj\Debug\GraficadorV1_P20.csproj.SuggestedBindingRedirects.cache
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\GraficadorV1_P20\obj\Debug\GraficadorV1_P20.Form1.resources
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\GraficadorV1_P20\obj\Debug\GraficadorV1_P20.Properties.Resources.resources
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\GraficadorV1_P20\obj\Debug\GraficadorV1_P20.csproj.GenerateResource.cache
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\GraficadorV1_P20\obj\Debug\GraficadorV1_P20.csproj.CoreCompileInputs.cache
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\GraficadorV1_P20\obj\Debug\GraficadorV1_P20.exe
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\GraficadorV1_P20\obj\Debug\GraficadorV1_P20.pdb
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\GraficadorV1_P20\bin\Debug\info.lundin.math.dll
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\GraficadorV1_P20\obj\Debug\GraficadorV1_P20.csproj.CopyComplete
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\GraficadorV3_P22\bin\Debug\GraficadorV1_P20.exe.config
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\GraficadorV3_P22\bin\Debug\GraficadorV1_P20.exe
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\GraficadorV3_P22\bin\Debug\GraficadorV1_P20.pdb
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\GraficadorV3_P22\bin\Debug\info.lundin.math.dll
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\GraficadorV3_P22\obj\Debug\GraficadorV1_P20.csproj.AssemblyReference.cache
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\GraficadorV3_P22\obj\Debug\GraficadorV1_P20.csproj.SuggestedBindingRedirects.cache
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\GraficadorV3_P22\obj\Debug\GraficadorV1_P20.Form1.resources
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\GraficadorV3_P22\obj\Debug\GraficadorV1_P20.Properties.Resources.resources
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\GraficadorV3_P22\obj\Debug\GraficadorV1_P20.csproj.GenerateResource.cache
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\GraficadorV3_P22\obj\Debug\GraficadorV1_P20.csproj.CoreCompileInputs.cache
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\GraficadorV3_P22\obj\Debug\GraficadorV1_P20.csproj.CopyComplete
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\GraficadorV3_P22\obj\Debug\GraficadorV1_P20.exe
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\GraficadorV3_P22\obj\Debug\GraficadorV1_P20.pdb
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV4_P23\bin\Debug\GraficadorV4_P23.exe.config
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV4_P23\bin\Debug\GraficadorV4_P23.exe
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV4_P23\bin\Debug\GraficadorV4_P23.pdb
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV4_P23\bin\Debug\info.lundin.math.dll
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV4_P23\obj\Debug\GraficadorV1_P20.csproj.AssemblyReference.cache
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV4_P23\obj\Debug\GraficadorV1_P20.csproj.SuggestedBindingRedirects.cache
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV4_P23\obj\Debug\GraficadorV1_P20.Form1.resources
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV4_P23\obj\Debug\GraficadorV1_P20.Properties.Resources.resources
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV4_P23\obj\Debug\GraficadorV1_P20.csproj.GenerateResource.cache
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV4_P23\obj\Debug\GraficadorV1_P20.csproj.CoreCompileInputs.cache
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV4_P23\obj\Debug\GraficadorV1_P20.csproj.CopyComplete
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV4_P23\obj\Debug\GraficadorV4_P23.exe
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV4_P23\obj\Debug\GraficadorV4_P23.pdb
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV4_P23 - copia\bin\Debug\GraficadorV4_P23.exe.config
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV4_P23 - copia\bin\Debug\GraficadorV4_P23.exe
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV4_P23 - copia\bin\Debug\GraficadorV4_P23.pdb
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV4_P23 - copia\bin\Debug\info.lundin.math.dll
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV4_P23 - copia\obj\Debug\GraficadorV1_P20.csproj.AssemblyReference.cache
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV4_P23 - copia\obj\Debug\GraficadorV1_P20.csproj.SuggestedBindingRedirects.cache
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV4_P23 - copia\obj\Debug\GraficadorV1_P20.Form1.resources
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV4_P23 - copia\obj\Debug\GraficadorV1_P20.Properties.Resources.resources
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV4_P23 - copia\obj\Debug\GraficadorV1_P20.csproj.GenerateResource.cache
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV4_P23 - copia\obj\Debug\GraficadorV1_P20.csproj.CoreCompileInputs.cache
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV4_P23 - copia\obj\Debug\GraficadorV1_P20.csproj.CopyComplete
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV4_P23 - copia\obj\Debug\GraficadorV4_P23.exe
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV4_P23 - copia\obj\Debug\GraficadorV4_P23.pdb
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV5_P23\bin\Debug\GraficadorV4_P23.exe.config
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV5_P23\bin\Debug\GraficadorV4_P23.exe
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV5_P23\bin\Debug\GraficadorV4_P23.pdb
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV5_P23\bin\Debug\info.lundin.math.dll
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV5_P23\obj\Debug\GraficadorV1_P20.csproj.AssemblyReference.cache
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV5_P23\obj\Debug\GraficadorV1_P20.csproj.SuggestedBindingRedirects.cache
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV5_P23\obj\Debug\GraficadorV1_P20.Form1.resources
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV5_P23\obj\Debug\GraficadorV1_P20.Properties.Resources.resources
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV5_P23\obj\Debug\GraficadorV1_P20.csproj.GenerateResource.cache
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV5_P23\obj\Debug\GraficadorV1_P20.csproj.CoreCompileInputs.cache
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV5_P23\obj\Debug\GraficadorV1_P20.csproj.CopyComplete
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV5_P23\obj\Debug\GraficadorV4_P23.exe
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV5_P23\obj\Debug\GraficadorV4_P23.pdb
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV6_P24\bin\Debug\GraficadorV6_P24.exe.config
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV6_P24\bin\Debug\GraficadorV6_P24.exe
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV6_P24\bin\Debug\GraficadorV6_P24.pdb
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV6_P24\bin\Debug\info.lundin.math.dll
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV6_P24\obj\Debug\GraficadorV1_P20.csproj.AssemblyReference.cache
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV6_P24\obj\Debug\GraficadorV1_P20.csproj.SuggestedBindingRedirects.cache
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV6_P24\obj\Debug\GraficadorV1_P20.Form1.resources
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV6_P24\obj\Debug\GraficadorV1_P20.Properties.Resources.resources
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV6_P24\obj\Debug\GraficadorV1_P20.csproj.GenerateResource.cache
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV6_P24\obj\Debug\GraficadorV1_P20.csproj.CoreCompileInputs.cache
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV6_P24\obj\Debug\GraficadorV1_P20.csproj.CopyComplete
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV6_P24\obj\Debug\GraficadorV6_P24.exe
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV6_P24\obj\Debug\GraficadorV6_P24.pdb
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV7_P25\bin\Debug\GraficadorV6_P24.exe.config
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV7_P25\bin\Debug\GraficadorV6_P24.exe
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV7_P25\bin\Debug\GraficadorV6_P24.pdb
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV7_P25\bin\Debug\info.lundin.math.dll
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV7_P25\obj\Debug\GraficadorV1_P20.csproj.AssemblyReference.cache
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV7_P25\obj\Debug\GraficadorV1_P20.csproj.SuggestedBindingRedirects.cache
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV7_P25\obj\Debug\GraficadorV1_P20.Form1.resources
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV7_P25\obj\Debug\GraficadorV1_P20.Properties.Resources.resources
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV7_P25\obj\Debug\GraficadorV1_P20.csproj.GenerateResource.cache
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV7_P25\obj\Debug\GraficadorV1_P20.csproj.CoreCompileInputs.cache
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV7_P25\obj\Debug\GraficadorV1_P20.csproj.CopyComplete
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV7_P25\obj\Debug\GraficadorV6_P24.exe
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\GraficadorV7_P25\obj\Debug\GraficadorV6_P24.pdb
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\Proyecto6_Graficador\bin\Debug\GraficadorV6_P24.exe.config
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\Proyecto6_Graficador\bin\Debug\GraficadorV6_P24.exe
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\Proyecto6_Graficador\bin\Debug\GraficadorV6_P24.pdb
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\Proyecto6_Graficador\bin\Debug\info.lundin.math.dll
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\Proyecto6_Graficador\obj\Debug\GraficadorV1_P20.csproj.AssemblyReference.cache
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\Proyecto6_Graficador\obj\Debug\GraficadorV1_P20.csproj.SuggestedBindingRedirects.cache
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\Proyecto6_Graficador\obj\Debug\GraficadorV1_P20.Form1.resources
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\Proyecto6_Graficador\obj\Debug\GraficadorV1_P20.Properties.Resources.resources
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\Proyecto6_Graficador\obj\Debug\GraficadorV1_P20.csproj.GenerateResource.cache
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\Proyecto6_Graficador\obj\Debug\GraficadorV1_P20.csproj.CoreCompileInputs.cache
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\Proyecto6_Graficador\obj\Debug\GraficadorV1_P20.csproj.CopyComplete
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\Proyecto6_Graficador\obj\Debug\GraficadorV6_P24.exe
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Segundo Parcial\Proyecto6_Graficador\obj\Debug\GraficadorV6_P24.pdb
